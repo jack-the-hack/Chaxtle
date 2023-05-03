@@ -1,0 +1,44 @@
+{
+  "Chains": [
+    {
+      "Conv": [
+        {
+          "tple": [
+            "hello",
+            "Hello there! What questions do you have today?"
+          ],"Ansreq":0,"PTYPE":"NSPEC,INTRO","UAID":"000000"
+        },
+        {
+          "tple": [
+            "are you better than chatgpt",
+            "Not as an AI, but my developers would like to think so."
+          ],"Ansreq":0,"PTYPE":"NPEC","UAID":"000001"
+        },
+        {
+          "tple": [
+            "who are they",
+            "Our developers consist of Jack Baldyga (Lead Programmer.) William Manrique (Information Scraper) and Trenton Herrman (Testing and Design)"
+          ],"Ansreq":0,"PTYPE":"PASPEC","UAID":"000002"
+        },
+        {
+          "tple": [
+            "shut up",
+            "Please refrain from using unkind language."
+          ],"Ansreq":1,"PTYPE":"NSPEC,AANS","UAID":"000003"
+        },
+        {
+          "tple": [
+            "what is sex",
+            "As an Artificial intelligence, I am programmed to not respond to that."
+          ],"Ansreq":1,"PTYPE":"NSPEC,AANS","UAID":"000004"
+        },
+        {
+          "tple": [
+            "why not",
+            "Due to laws regarding content relating to sex, I am not permitted to release that Information to a person under the age of 18."
+          ],"Ansreq":0,"PTYPE":"PASPEC","UAID":"0000005"
+        }
+      ]
+    }
+  ]
+}
